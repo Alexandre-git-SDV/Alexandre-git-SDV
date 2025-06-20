@@ -1,6 +1,7 @@
 # Bonjour, je suis Alexandre ! 👋 | Hi, I am Alexandre! 👋
 
 Bienvenue sur mon profil GitHub ! Je suis étudiant en IT et développeur. J’aime créer des choses et explorer le monde du code.  
+
 Welcome to my GitHub profile! I am an IT student and developer. I love building things and exploring the world of code.
 
 ![Vues du profil](https://komarev.com/ghpvc/?username=Alexandre-git-SDV&color=0e2147)
@@ -10,9 +11,7 @@ Welcome to my GitHub profile! I am an IT student and developer. I love building 
 ## 🚀 Bio
 
 - 📫 Contact : alexandre.gouraud@supdevinci-edu.fr  
-  Contact: alexandre.gouraud@supdevinci-edu.fr
-- ⚡ J'adore créer des choses utiles  
-  I love to build cool and useful things like applications and websites.
+- ⚡ J'adore créer des choses utiles | I love to build cool and useful things like applications and websites.
 
 ---
 
@@ -54,7 +53,6 @@ An overview of my contributions, languages, and statistics on GitHub.
 ## 🔗 Me contacter | Contact me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e2147?style=flat&logo=linkedin&logoColor=ff3434)](https://www.linkedin.com/in/alexandre-gouraud/)
-
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0e2147?style=flat&logo=internet-explorer&logoColor=ff3434)](http://alexandregouraud.fr/)
 
 Merci d’avoir visité mon profil ! N’hésitez pas à consulter mes dépôts et à me contacter si vous souhaitez collaborer sur un projet.  
