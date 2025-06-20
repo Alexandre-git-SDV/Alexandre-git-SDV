@@ -17,13 +17,13 @@ Welcome to my GitHub profile! I am an IT student and developer. I love building 
 
 ## 🛠️ Technologies & Outils | Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0e2147?style=flat&logo=javascript&logoColor=ff3434)
-![Node.js](https://img.shields.io/badge/-Node.js-ff3434?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-0e2147?style=flat&logo=git&logoColor=ff3434)
-![GitHub](https://img.shields.io/badge/-GitHub-ff3434?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0e2147?style=flat&logo=visual-studio-code&logoColor=ff3434)
+![Git](https://img.shields.io/badge/-Git-ff3434?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-0e2147?style=flat&logo=github&logoColor=ff3434)
 ![Python](https://img.shields.io/badge/-Python-ff3434?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0e2147?style=flat&logo=typescript&logoColor=ff3434)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0e2147?style=flat&logo=javascript&logoColor=ff3434)
+![TypeScript](https://img.shields.io/badge/-TypeScript-ff3434?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-0e2147?style=flat&logo=react&logoColor=ff3434)
 
 ---
 
@@ -39,14 +39,11 @@ Welcome to my GitHub profile! I am an IT student and developer. I love building 
 
 ---
 
-## 💡 Projets | Projects
+## 💡 Mes contributions GitHub | My GitHub Contributions
 
-### Mes stats GitHub | My GitHub Stats
-
-[![Stats GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Alexandre-git-SDV&repo=Alexandre-git-SDV&theme=dark&bg_color=0e2147)](https://github.com/Alexandre-git-SDV/Alexandre-git-SDV)
-
-Un aperçu de mes contributions, langages et statistiques sur GitHub.  
-An overview of my contributions, languages, and statistics on GitHub.
+<p align="center">
+  <img src="https://ghchart.rshah.org/ff3434/Alexandre-git-SDV" alt="Alexandre's Github contribution graph" />
+</p>
 
 ---
 
