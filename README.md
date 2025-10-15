@@ -1,4 +1,6 @@
-# Hi, I am Alexandre! 👋
+# Bonjour, je suis Alexandre ! 👋 | Hi, I am Alexandre! 👋
+
+Bienvenue sur mon profil GitHub ! Je suis étudiant en IT et développeur. J’aime créer des choses et explorer le monde du code.  
 
 Welcome to my GitHub profile! I am an IT student and developer. I love building things and exploring the world of code.
 
@@ -9,11 +11,11 @@ Welcome to my GitHub profile! I am an IT student and developer. I love building 
 ## 🚀 Bio
 
 - 📫 Contact : alexandre.gouraud@supdevinci-edu.fr  
-- ⚡ I love to build cool and useful things like applications and websites.
+- ⚡ J'adore créer des choses utiles | I love to build cool and useful things like applications and websites.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Outils | Technologies & Tools
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-2355B1?style=flat&logo=visual-studio-code&logoColor=ff3434)
 ![Git](https://img.shields.io/badge/-Git-ff3434?style=flat&logo=git&logoColor=white)
@@ -37,7 +39,7 @@ Welcome to my GitHub profile! I am an IT student and developer. I love building 
 
 ---
 
-## 💡 My GitHub Contributions
+## 💡 Mes contributions GitHub | My GitHub Contributions
 
 <p align="center">
   <img src="https://ghchart.rshah.org/ff3434/Alexandre-git-SDV" alt="Alexandre's Github contribution graph" />
@@ -45,11 +47,12 @@ Welcome to my GitHub profile! I am an IT student and developer. I love building 
 
 ---
 
-## 🔗 Contact me
+## 🔗 Me contacter | Contact me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2355B1?style=flat&logo=linkedin&logoColor=ff3434)](https://www.linkedin.com/in/alexandre-gouraud/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-2355B1?style=flat&logo=internet-explorer&logoColor=ff3434)](http://alexandregouraud.fr/)
 
+Merci d’avoir visité mon profil ! N’hésitez pas à consulter mes dépôts et à me contacter si vous souhaitez collaborer sur un projet.  
 Thank you for visiting my profile! Feel free to check out my repositories and contact me if you want to collaborate on a project.
 
 <!--
