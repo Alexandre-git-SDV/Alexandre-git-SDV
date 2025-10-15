@@ -54,6 +54,6 @@ Thank you for visiting my profile! Feel free to check out my repositories and co
 
 <!--
 Palette couleur :
-- Bleu foncé : #0e2147
+- Bleu foncé : #204DA1
 - Rouge vif : #ff3434
 -->
