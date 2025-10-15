@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am an IT student and developer. I love building things and exploring the world of code.
 
-![Vues du profil](https://komarev.com/ghpvc/?username=Alexandre-git-SDV&color=0e2147)
+![Vues du profil](https://komarev.com/ghpvc/?username=Alexandre-git-SDV&color=2355B1)
 
 ---
 
@@ -15,24 +15,24 @@ Welcome to my GitHub profile! I am an IT student and developer. I love building 
 
 ## 🛠️ Technologies & Tools
 
-![VS Code](https://img.shields.io/badge/-VS%20Code-0e2147?style=flat&logo=visual-studio-code&logoColor=ff3434)
+![VS Code](https://img.shields.io/badge/-VS%20Code-2355B1?style=flat&logo=visual-studio-code&logoColor=ff3434)
 ![Git](https://img.shields.io/badge/-Git-ff3434?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-0e2147?style=flat&logo=github&logoColor=ff3434)
+![GitHub](https://img.shields.io/badge/-GitHub-2355B1?style=flat&logo=github&logoColor=ff3434)
 ![Python](https://img.shields.io/badge/-Python-ff3434?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0e2147?style=flat&logo=javascript&logoColor=ff3434)
+![JavaScript](https://img.shields.io/badge/-JavaScript-2355B1?style=flat&logo=javascript&logoColor=ff3434)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-ff3434?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-0e2147?style=flat&logo=react&logoColor=ff3434)
+![React](https://img.shields.io/badge/-React-2355B1?style=flat&logo=react&logoColor=ff3434)
 
 ---
 
-## 📈 Statistiques GitHub | GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexandre-git-SDV&show_icons=true&theme=dark&bg_color=0e2147&title_color=ff3434&icon_color=ff3434&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexandre-git-SDV&show_icons=true&theme=dark&bg_color=2355B1&title_color=ff3434&icon_color=ff3434&text_color=ffffff" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alexandre-git-SDV&theme=dark&background=0e2147&ring=ff3434&fire=ff3434&currStreakLabel=ff3434" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alexandre-git-SDV&theme=dark&background=2355B1&ring=ff3434&fire=ff3434&currStreakLabel=ff3434" alt="GitHub Streak"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-git-SDV&layout=compact&theme=dark&bg_color=0e2147&title_color=ff3434&text_color=ffffff" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-git-SDV&layout=compact&theme=dark&bg_color=2355B1&title_color=ff3434&text_color=ffffff" alt="Top Languages"/>
 </p>
 
 ---
@@ -47,13 +47,13 @@ Welcome to my GitHub profile! I am an IT student and developer. I love building 
 
 ## 🔗 Contact me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e2147?style=flat&logo=linkedin&logoColor=ff3434)](https://www.linkedin.com/in/alexandre-gouraud/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0e2147?style=flat&logo=internet-explorer&logoColor=ff3434)](http://alexandregouraud.fr/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2355B1?style=flat&logo=linkedin&logoColor=ff3434)](https://www.linkedin.com/in/alexandre-gouraud/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-2355B1?style=flat&logo=internet-explorer&logoColor=ff3434)](http://alexandregouraud.fr/)
 
 Thank you for visiting my profile! Feel free to check out my repositories and contact me if you want to collaborate on a project.
 
 <!--
 Palette couleur :
-- Bleu foncé : #204DA1
+- Bleu foncé : #2355B1
 - Rouge vif : #ff3434
 -->
