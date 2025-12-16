@@ -1,3 +1,8 @@
+<div align="center">
+    <!--img src="https://i.pinimg.com/originals/1e/9b/03/1e9b03994f3d5583afb857d74724b264.gif" /-->
+    <img src="https://i.pinimg.com/originals/1e/9b/03/1e9b03994f3d5583afb857d74724b264.gif" align="center" />
+</div>
+
 # Bonjour, je suis Alexandre ! 👋 | Hi, I am Alexandre! 👋
 
 Bienvenue sur mon profil GitHub ! Je suis étudiant en IT et développeur. J’aime créer des choses et explorer le monde du code.  
