@@ -1,26 +1,35 @@
-<div align="center">
-    <!--img src="https://i.pinimg.com/originals/1e/9b/03/1e9b03994f3d5583afb857d74724b264.gif" /-->
-    <img src="https://i.pinimg.com/originals/1e/9b/03/1e9b03994f3d5583afb857d74724b264.gif" align="center" />
-</div>
+<p align="center">
+  🇫🇷 <a href="#-francais">Français</a> | 🇬🇧 <a href="#-english">English</a>
+</p>
 
-# Bonjour, je suis Alexandre ! 👋 | Hi, I am Alexandre! 👋
+<br>
+
+<table>
+  <tr>
+    <td>
+
+# Alexandre-git-SDV - README
 
 Bienvenue sur mon profil GitHub ! Je suis étudiant en IT et développeur. J’aime créer des choses et explorer le monde du code.  
 
-Welcome to my GitHub profile! I am an IT student and developer. I love building things and exploring the world of code.
-
 ![Vues du profil](https://komarev.com/ghpvc/?username=Alexandre-git-SDV&color=2355B1)
 
----
+  </td>
+  
+  <td align="right">
+    <img src="https://i.pinimg.com/originals/1e/9b/03/1e9b03994f3d5583afb857d74724b264.gif" width="250"/>
+  </td>
+  </tr>
+</table>
 
 ## 🚀 Bio
 
 - 📫 Contact : alexandre.gouraud@supdevinci-edu.fr  
-- ⚡ J'adore créer des choses utiles | I love to build cool and useful things like applications and websites.
+- ⚡ J'adore créer des choses utiles.
 
 ---
 
-## 🛠️ Technologies & Outils | Technologies & Tools
+## 🛠️ Technologies & Outils
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-2355B1?style=flat&logo=visual-studio-code&logoColor=ff3434)
 ![Git](https://img.shields.io/badge/-Git-ff3434?style=flat&logo=git&logoColor=white)
@@ -44,7 +53,7 @@ Welcome to my GitHub profile! I am an IT student and developer. I love building 
 
 ---
 
-## 💡 Mes contributions GitHub | My GitHub Contributions
+## 💡 Mes contributions GitHub
 
 <p align="center">
   <img src="https://ghchart.rshah.org/ff3434/Alexandre-git-SDV" alt="Alexandre's Github contribution graph" />
@@ -52,13 +61,12 @@ Welcome to my GitHub profile! I am an IT student and developer. I love building 
 
 ---
 
-## 🔗 Me contacter | Contact me
+## 🔗 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2355B1?style=flat&logo=linkedin&logoColor=ff3434)](https://www.linkedin.com/in/alexandre-gouraud/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-2355B1?style=flat&logo=internet-explorer&logoColor=ff3434)](http://alexandregouraud.fr/)
 
 Merci d’avoir visité mon profil ! N’hésitez pas à consulter mes dépôts et à me contacter si vous souhaitez collaborer sur un projet.  
-Thank you for visiting my profile! Feel free to check out my repositories and contact me if you want to collaborate on a project.
 
 <!--
 Palette couleur :
