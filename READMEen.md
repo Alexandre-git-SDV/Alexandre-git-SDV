@@ -1,5 +1,5 @@
 <p align="center">
-  🇫🇷 <a href="https://github.com/Alexandre-git-SDV">Français</a> | 🇬🇧 <a href="https://github.com/Alexandre-git-SDV/Alexandre-git-SDV/READMEen.md">English</a>
+  🇫🇷 <a href="https://github.com/Alexandre-git-SDV">Français</a> | 🇬🇧 <a href="https://github.com/Alexandre-git-SDV/Alexandre-git-SDV/blob/main/READMEen.md">English</a>
 </p>
 
 <br>
