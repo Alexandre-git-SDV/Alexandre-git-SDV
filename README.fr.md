@@ -1,18 +1,18 @@
 <!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
 
 <div data-importer="border" align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ffd9a0,35:f2a33c,70:ff3d2e,100:b91c0f&text=ALEXANDRE%20GOURAUD&fontSize=58&fontColor=ffffff&fontAlign=50&fontAlignY=34&desc=Full%20Stack%20Developer%20%C2%B7%20I%20build%20tools%20people%20can%20use&descSize=18&descAlign=50&descAlignY=53&animation=fadeIn" alt="Alexandre GOURAUD — Full Stack Developer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ffd9a0,35:f2a33c,70:ff3d2e,100:b91c0f&text=ALEXANDRE%20GOURAUD&fontSize=58&fontColor=ffffff&fontAlign=50&fontAlignY=34&desc=D%C3%A9veloppeur%20Full%20Stack%20%C2%B7%20Je%20construis%20des%20outils%20utilisables&descSize=18&descAlign=50&descAlignY=53&animation=fadeIn" alt="Alexandre GOURAUD — Développeur Full Stack" />
 </div>
 
 <div align="center">
 
-  <b>EN</b> · <a href="https://github.com/Alexandre-git-SDV/Alexandre-git-SDV/blob/main/README.fr.md">FR</a>
+  <a href="https://github.com/Alexandre-git-SDV">EN</a> · <b>FR</b>
 
-  <!-- Animated tagline (adapts to light / dark theme) -->
+  <!-- Titre animé (s'adapte au thème clair / sombre) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=FF3D2E&center=true&vCenter=true&width=640&height=55&lines=Full+Stack+Developer+based+in+France;Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Rust;Open+Source+and+self-hosted+tools;A+useful+tool+beats+an+impressive+demo." />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=B91C0F&center=true&vCenter=true&width=640&height=55&lines=Full+Stack+Developer+based+in+France;Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Rust;Open+Source+and+self-hosted+tools;A+useful+tool+beats+an+impressive+demo." />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=FF3D2E&center=true&vCenter=true&width=640&height=55&lines=Full+Stack+Developer+based+in+France" alt="Full Stack Developer based in France" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=FF3D2E&center=true&vCenter=true&width=640&height=55&lines=D%C3%A9veloppeur+Full+Stack+en+France;Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Rust;Open+Source+et+outils+self-hosted;Un+outil+utile+vaut+mieux+qu'une+d%C3%A9mo+impressionnante." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=B91C0F&center=true&vCenter=true&width=640&height=55&lines=D%C3%A9veloppeur+Full+Stack+en+France;Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Rust;Open+Source+et+outils+self-hosted;Un+outil+utile+vaut+mieux+qu'une+d%C3%A9mo+impressionnante." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=FF3D2E&center=true&vCenter=true&width=640&height=55&lines=D%C3%A9veloppeur+Full+Stack+en+France" alt="Développeur Full Stack en France" />
   </picture>
 
   <p>
@@ -22,7 +22,7 @@
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Alexandre-git-SDV&label=VIEWS&color=ff3d2e&style=flat-square" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Alexandre-git-SDV&label=VUES&color=ff3d2e&style=flat-square" alt="Vues du profil" />
     <a href="https://github.com/Alexandre-git-SDV?tab=followers"><img src="https://img.shields.io/github/followers/Alexandre-git-SDV?style=flat-square&logo=github&label=FOLLOWERS&color=f2a33c&labelColor=505050" alt="Followers" /></a>
     <a href="https://github.com/Alexandre-git-SDV?tab=stars"><img src="https://img.shields.io/github/stars/Alexandre-git-SDV?style=flat-square&logo=github&label=STARS&color=ffd9a0&labelColor=505050" alt="Stars" /></a>
   </p>
@@ -31,24 +31,24 @@
 
 ###
 
-<!-- ═══════════════════════════════ ABOUT ═══════════════════════════════ -->
+<!-- ═══════════════════════════════ À PROPOS ═══════════════════════════════ -->
 
-<h2 data-importer="text" align="left">◆ About</h2>
+<h2 data-importer="text" align="left">◆ À propos</h2>
 
 ###
 
 <p data-importer="text" align="left">
-Full-stack developer based in France. I build web applications end to end — interface, API, deployment. What drives me is turning a concrete need into something that actually works, not a demo that only looks good in a screenshot.
+Développeur full-stack basé en France. Je conçois des applications web de bout en bout — interface, API, déploiement. Ce qui me motive, c'est de transformer un besoin concret en quelque chose qui fonctionne vraiment, pas une démo qui rend bien en capture d'écran.
 </p>
 
 ```yaml
-name:      Alexandre GOURAUD
-role:      Full Stack Developer
-location:  France
-focus:     Next.js · TypeScript · Python · Rust
-building:  applied AI — RAG pipelines, local LLMs, self-hosted tools
-method:    [understand the need, prototype, architect properly, ship]
-motto:     "A useful tool beats an impressive demo."
+nom:          Alexandre GOURAUD
+rôle:         Développeur Full Stack
+localisation: France
+focus:        Next.js · TypeScript · Python · Rust
+en_cours:     IA appliquée — pipelines RAG, LLM locaux, outils self-hosted
+méthode:      [comprendre le besoin, prototyper, architecturer, livrer]
+devise:       "Un outil utile vaut mieux qu'une démo impressionnante."
 ```
 
 ###
@@ -60,21 +60,21 @@ motto:     "A useful tool beats an impressive demo."
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">I · Short term</h3>
+      <h3 align="center">I · Court terme</h3>
       <p align="center">
-        Go deeper into <b>applied AI</b> — RAG, local LLMs, agents — and ship projects to production instead of leaving them at student or prototype stage.
+        Monter en puissance sur l'<b>IA appliquée</b> — RAG, LLM locaux, agents — et livrer des projets en production plutôt qu'au stade étudiant ou prototype.
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">II · Mid term</h3>
+      <h3 align="center">II · Moyen terme</h3>
       <p align="center">
-        Master <b>software architecture</b> and end-to-end DevOps: Docker, CI/CD, observability, and performance-critical systems in Rust.
+        Maîtriser l'<b>architecture logicielle</b> et le DevOps de bout en bout : Docker, CI/CD, observabilité, systèmes performants en Rust.
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">III · Long term</h3>
+      <h3 align="center">III · Long terme</h3>
       <p align="center">
-        Build <b>open-source products</b> people use daily, and contribute to a technical ecosystem that stays accessible to everyone.
+        Construire des <b>produits open-source</b> utilisés au quotidien, et contribuer à un écosystème technique qui reste accessible.
       </p>
     </td>
   </tr>
@@ -84,7 +84,7 @@ motto:     "A useful tool beats an impressive demo."
 
 <!-- ═══════════════════════════════ STACK ═══════════════════════════════ -->
 
-<h2 data-importer="text" align="left">◆ Tech stack</h2>
+<h2 data-importer="text" align="left">◆ Stack technique</h2>
 
 ###
 
@@ -100,7 +100,7 @@ motto:     "A useful tool beats an impressive demo."
 
 ###
 
-<h3 data-importer="text" align="left">▸ Backend & Data</h3>
+<h3 data-importer="text" align="left">▸ Backend & Données</h3>
 
 <div data-importer="techs" align="left">
   <picture>
@@ -112,7 +112,7 @@ motto:     "A useful tool beats an impressive demo."
 
 ###
 
-<h3 data-importer="text" align="left">▸ Systems & DevOps</h3>
+<h3 data-importer="text" align="left">▸ Systèmes & DevOps</h3>
 
 <div data-importer="techs" align="left">
   <picture>
@@ -124,7 +124,7 @@ motto:     "A useful tool beats an impressive demo."
 
 ###
 
-<h3 data-importer="text" align="left">▸ Tools</h3>
+<h3 data-importer="text" align="left">▸ Outils</h3>
 
 <div data-importer="techs" align="left">
   <picture>
@@ -150,17 +150,17 @@ motto:     "A useful tool beats an impressive demo."
 
 ###
 
-<!-- ═══════════════════════════════ PROJECTS ═══════════════════════════════ -->
+<!-- ═══════════════════════════════ PROJETS ═══════════════════════════════ -->
 
-<h2 data-importer="text" align="left">◆ Projects</h2>
+<h2 data-importer="text" align="left">◆ Projets</h2>
 
 ###
 
 <table>
   <thead>
     <tr>
-      <th align="left">Project</th>
-      <th align="left">What it is</th>
+      <th align="left">Projet</th>
+      <th align="left">Description</th>
       <th align="left">Stack</th>
     </tr>
   </thead>
@@ -169,7 +169,7 @@ motto:     "A useful tool beats an impressive demo."
       <td>
         <a href="https://github.com/Alexandre-git-SDV/Ollama_chat"><b>01 · Ollama_chat</b></a>
       </td>
-      <td>Chat interface for running <b>LLMs locally</b> through Ollama — private conversations, nothing ever leaves the machine.</td>
+      <td>Interface de chat pour exécuter des <b>LLM en local</b> via Ollama — conversations privées, aucune donnée qui sort de la machine.</td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Ollama-FF3D2E?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
@@ -179,7 +179,7 @@ motto:     "A useful tool beats an impressive demo."
       <td>
         <a href="https://github.com/Alexandre-git-SDV/Filtro"><b>02 · Filtro</b></a>
       </td>
-      <td><b>Image processing and filtering app</b> — apply filters, preview the result, export the output.</td>
+      <td><b>Application de traitement et de filtrage d'images</b> — application de filtres, prévisualisation et export.</td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Pillow-F2A33C?style=flat-square&logo=python&logoColor=white" alt="Pillow" />
@@ -189,7 +189,7 @@ motto:     "A useful tool beats an impressive demo."
       <td>
         <a href="https://github.com/Alexandre-git-SDV/Rag_sanofi"><b>03 · Rag_sanofi</b></a>
       </td>
-      <td><b>RAG pipeline</b> (Retrieval-Augmented Generation) to query a business document base in natural language.</td>
+      <td><b>Pipeline RAG</b> (Retrieval-Augmented Generation) pour interroger une base documentaire métier en langage naturel.</td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
@@ -200,7 +200,7 @@ motto:     "A useful tool beats an impressive demo."
       <td>
         <a href="https://github.com/Ky0sann/StreamApp_Swift"><b>04 · StreamApp_Swift</b></a>
       </td>
-      <td><b>Native iOS streaming app</b> built in Swift — media playback, catalog browsing and a fully native interface.</td>
+      <td><b>Application de streaming iOS native</b> développée en Swift — lecture de médias, navigation dans le catalogue, interface 100 % native.</td>
       <td>
         <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
         <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
@@ -210,7 +210,7 @@ motto:     "A useful tool beats an impressive demo."
       <td>
         <a href="https://github.com/Alexandre-git-SDV/Projet-Blog-Pattes-Douces"><b>05 · Projet-Blog-Pattes-Douces</b></a>
       </td>
-      <td><b>Full blog platform</b> about animals — content management, server-side rendering and a responsive interface.</td>
+      <td><b>Plateforme de blog complète</b> autour des animaux — gestion de contenu, rendu côté serveur et interface responsive.</td>
       <td>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -221,14 +221,14 @@ motto:     "A useful tool beats an impressive demo."
 </table>
 
 <p align="left">
-  <a href="https://github.com/Alexandre-git-SDV?tab=repositories"><img src="https://img.shields.io/badge/BROWSE%20ALL%20REPOSITORIES-ff3d2e?style=for-the-badge&logo=github&logoColor=white&labelColor=b91c0f" alt="Browse all repositories" /></a>
+  <a href="https://github.com/Alexandre-git-SDV?tab=repositories"><img src="https://img.shields.io/badge/VOIR%20TOUS%20MES%20D%C3%89P%C3%94TS-ff3d2e?style=for-the-badge&logo=github&logoColor=white&labelColor=b91c0f" alt="Voir tous mes dépôts" /></a>
 </p>
 
 ###
 
 <!-- ═══════════════════════════════ STATS ═══════════════════════════════ -->
 
-<h2 data-importer="text" align="left">◆ GitHub stats</h2>
+<h2 data-importer="text" align="left">◆ Statistiques GitHub</h2>
 
 ###
 
@@ -244,7 +244,7 @@ motto:     "A useful tool beats an impressive demo."
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Alexandre-git-SDV&bg_color=00000000&color=C9D1D9&line=FF3D2E&point=F2A33C&area=true&area_color=FF3D2E&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Alexandre-git-SDV&bg_color=00000000&color=24292F&line=B91C0F&point=D9480F&area=true&area_color=FF3D2E&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexandre-git-SDV&bg_color=00000000&color=C9D1D9&line=FF3D2E&point=F2A33C&area=true&area_color=FF3D2E&hide_border=true" alt="Contribution activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexandre-git-SDV&bg_color=00000000&color=C9D1D9&line=FF3D2E&point=F2A33C&area=true&area_color=FF3D2E&hide_border=true" alt="Graphique d'activité" />
   </picture>
   -->
 
@@ -258,7 +258,7 @@ motto:     "A useful tool beats an impressive demo."
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexandre-git-SDV/Alexandre-git-SDV/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alexandre-git-SDV/Alexandre-git-SDV/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Alexandre-git-SDV/Alexandre-git-SDV/output/github-snake.svg" alt="Contribution snake animation" />
+    <img src="https://raw.githubusercontent.com/Alexandre-git-SDV/Alexandre-git-SDV/output/github-snake.svg" alt="Snake animation des contributions" />
   </picture>
 </div>
 
@@ -266,12 +266,12 @@ motto:     "A useful tool beats an impressive demo."
 
 <!-- ═══════════════════════════════ CONTACT ═══════════════════════════════ -->
 
-<h2 data-importer="text" align="left">◆ Get in touch</h2>
+<h2 data-importer="text" align="left">◆ Me contacter</h2>
 
 ###
 
 <p data-importer="text" align="left">
-Open to <b>opportunities</b>, <b>open-source collaborations</b> and technical conversations. Email or LinkedIn is the fastest way to reach me.
+Ouvert aux <b>opportunités</b>, aux <b>collaborations open-source</b> et aux discussions techniques. Le plus simple est le mail ou LinkedIn.
 </p>
 
 <div align="left">
@@ -285,11 +285,11 @@ Open to <b>opportunities</b>, <b>open-source collaborations</b> and technical co
 <!-- ═══════════════════════════════ FOOTER ═══════════════════════════════ -->
 
 <div align="center">
-  <i>Thanks for stopping by — feel free to dig through the repos and say hello.</i>
+  <i>Merci d'être passé — n'hésite pas à parcourir les dépôts et à me faire signe.</i>
 </div>
 
 <div data-importer="border" align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:b91c0f,30:ff3d2e,65:f2a33c,100:ffd9a0&text=LET%27S%20BUILD%20SOMETHING&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=70&desc=contact@alexandregouraud.fr&descSize=15&descAlign=50&descAlignY=87" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:b91c0f,30:ff3d2e,65:f2a33c,100:ffd9a0&text=ON%20CONSTRUIT%20QUELQUE%20CHOSE%20%3F&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=70&desc=contact@alexandregouraud.fr&descSize=15&descAlign=50&descAlignY=87" alt="" />
 </div>
 
 ###
