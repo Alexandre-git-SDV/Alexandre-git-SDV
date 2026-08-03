@@ -84,69 +84,49 @@ motto:     "A useful tool beats an impressive demo."
 
 <!-- ═══════════════════════════════ STACK ═══════════════════════════════ -->
 
-<h2 data-importer="text" align="left">◆ Tech stack</h2>
+<h2 align="left">◆ Tech Stack</h2>
 
 ###
 
-<h3 data-importer="text" align="left">▸ Frontend</h3>
+<h3 align="left">▸ Frontend</h3>
 
-<div data-importer="techs" align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,ts,js,vite,tailwind&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,ts,js,vite,tailwind&theme=light" />
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,vite,tailwind&theme=dark" alt="Next.js, React, TypeScript, JavaScript, Vite, Tailwind CSS" />
-  </picture>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,vite,tailwind" alt="Frontend"/>
+</p>
 
 ###
 
-<h3 data-importer="text" align="left">▸ Backend & Data</h3>
+<h3 align="left">▸ Backend & Data</h3>
 
-<div data-importer="techs" align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,rust,fastapi,nodejs,postgres,mysql,mongodb&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,rust,fastapi,nodejs,postgres,mysql,mongodb&theme=light" />
-    <img src="https://skillicons.dev/icons?i=py,rust,fastapi,nodejs,postgres,mysql,mongodb&theme=dark" alt="Python, Rust, FastAPI, Node.js, PostgreSQL, MySQL, MongoDB" />
-  </picture>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,rust,fastapi,nodejs,postgres,mysql,mongodb" alt="Backend"/>
+</p>
 
 ###
 
-<h3 data-importer="text" align="left">▸ Systems & DevOps</h3>
+<h3 align="left">▸ Systems & DevOps</h3>
 
-<div data-importer="techs" align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,docker,nginx,debian,ubuntu,bash,githubactions&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,docker,nginx,debian,ubuntu,bash,githubactions&theme=light" />
-    <img src="https://skillicons.dev/icons?i=linux,docker,nginx,debian,ubuntu,bash,githubactions&theme=dark" alt="Linux, Docker, Nginx, Debian, Ubuntu, Bash, GitHub Actions" />
-  </picture>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,debian,ubuntu,bash,githubactions" alt="DevOps"/>
+</p>
 
 ###
 
-<h3 data-importer="text" align="left">▸ Tools</h3>
+<h3 align="left">▸ Tools</h3>
 
-<div data-importer="techs" align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,unity&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,unity&theme=light" />
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,unity&theme=dark" alt="Git, GitHub, GitLab, VS Code, Postman, Unity" />
-  </picture>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,unity" alt="Tools"/>
+</p>
 
 ###
 
-<h3 data-importer="text" align="left">▸ Design / UI</h3>
+<h3 align="left">▸ Design / UI</h3>
 
-<div data-importer="techs" align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=figma&theme=light" />
-    <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="48" alt="Figma" />
-  </picture>
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
+  <img width="8"/>
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="Canva"/>
+</p>
 
 ###
 
